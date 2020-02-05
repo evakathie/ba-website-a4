@@ -1,0 +1,26 @@
+/**
+ * WEBFONTS
+ * generated using webfonts.gidix.net
+ *
+ * 03.04.2019, 16:22
+ */
+
+@font-face {
+	font-family: 'quicksand';
+	src: url('quicksand-bold.ttf');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'quicksand';
+	src: url('quicksand-regular.ttf');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'quicksand';
+	src: url('quicksand-medium.ttf');
+	font-weight: 400;
+	font-style: normal;
+}
