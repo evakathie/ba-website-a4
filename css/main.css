@@ -249,14 +249,8 @@ li {
     text-align: left;
     margin-left: 24px;
     margin-bottom: 12px;
-    height: 75px;
-    overflow-y: scroll;
-    width: 200px;
 }
 
-.checkboxes-cookie::-webkit-scrollbar {
-    visibility: visible;
-}
 
 .checkbox-container {
     padding-bottom: 8px;
